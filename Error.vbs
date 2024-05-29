@@ -1,0 +1,5 @@
+x=msgbox("You have been hacked and all of your data is lost!", 2+16, "Critical Error!!!")
+x=msgbox("Failed!!! Warning all data will be lost...", 2+16, "Critical Error!!!")
+x=msgbox("Failed to reboot!", 2+16, "Critical Error!!!")
+x=msgbox("Credit card stolen! Personal files comprimized!", 2+16, "Critical Error!!!")
+x=msgbox("YOU ARE STOOBID!", 2+16, "Critical Error!!!")
